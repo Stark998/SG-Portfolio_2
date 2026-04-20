@@ -1,6 +1,6 @@
 import { portfolioData } from "../data/portfolio";
 
-const { personal } = portfolioData;
+const { personal } = portfolioData; // Updated
 
 export default function Hero() {
   return (

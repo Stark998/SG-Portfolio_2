@@ -12,7 +12,7 @@ export const portfolioData = {
     currentCompany: "Deloitte Touche Tohmatsu India LLP",
     status: "Open to Work",
     yearsExperience: ">3",
-    deployments: "5+",
+    deployments: "6+",
   },
 
   skills: [
